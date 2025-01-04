@@ -14,11 +14,16 @@ Welcome to the **AI-Powered Brainstorm Chatbot** — an interactive platform tha
 
 ## 📸 UI Screenshot
 
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)  
-*Add a screenshot of your app here for better visualization.*
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png) 
+
 
 ---
-
+## 💡 AI Responses:
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
 ## 🛠️ Tech Stack
 - **Frontend**: Streamlit for the user interface.
 - **Backend**: Mistral-7B-Instruct model via Hugging Face API.
