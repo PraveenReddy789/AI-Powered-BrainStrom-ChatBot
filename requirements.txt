@@ -1,0 +1,10 @@
+openai
+langchain
+streamlit
+langchain-community
+transformers
+torch
+accelerate
+bitsandbytes
+langchain-huggingface
+huggingface_hub
