@@ -19,11 +19,15 @@ Welcome to the **AI-Powered Brainstorm Chatbot** — an interactive platform tha
 
 ---
 ## 💡 AI Responses:
-![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
-![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
-![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
-![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
-![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/AI-Powered.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/response_1.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/response_2.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/response_3.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/response_4.png)
+![App Screenshot](https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot/blob/main/images/response_5.png)
+
+**Just like an ChatGPT**
+---
+
 ## 🛠️ Tech Stack
 - **Frontend**: Streamlit for the user interface.
 - **Backend**: Mistral-7B-Instruct model via Hugging Face API.
