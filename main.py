@@ -66,7 +66,7 @@ st.markdown("Generate ideas, solve problems, and explore creative solutions with
 
 # Hugging Face token input
 if "HF_TOKEN" not in st.session_state:
-    st.session_state["HF_TOKEN"] = ""
+    st.session_state["HF_TOKEN"] = "" #Place your HuggingFace Token Here
 
 if "history" not in st.session_state:
     st.session_state["history"] = []  # To store question-answer pairs
