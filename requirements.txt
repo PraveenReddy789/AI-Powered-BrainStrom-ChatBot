@@ -6,4 +6,4 @@ transformers
 requests 
 python-dotenv
 ## Install all Required Libraries in one-go:
-pip install streamlit langchain langchain_huggingface transformers requests python-dotenv
+pip install streamlit langchain langchain-huggingface transformers requests python-dotenv
