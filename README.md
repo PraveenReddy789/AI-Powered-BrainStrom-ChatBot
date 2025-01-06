@@ -43,3 +43,5 @@ Welcome to the **AI-Powered Brainstorm Chatbot** — an interactive platform tha
    git clone https://github.com/PraveenReddy789/AI-Powered-BrainStrom-ChatBot.git
    cd AI-Powered-BrainStrom-ChatBot
    streamlit run main.py
+## Wanna Try it?
+**Here you go** -> https://ai-powered-brainstrom-chatbot-dwxobrhrabr6kvcot7wsky.streamlit.app/
