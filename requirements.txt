@@ -1,9 +1,6 @@
-## Required Libraries:
-streamlit 
-langchain 
-langchain-huggingface 
-transformers 
-requests 
+python-3.9
+streamlit
+langchain
+transformers
+requests
 python-dotenv
-## Install all Required Libraries in one-go:
-pip install streamlit langchain langchain-huggingface transformers requests python-dotenv
