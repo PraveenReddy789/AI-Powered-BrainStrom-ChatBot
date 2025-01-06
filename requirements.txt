@@ -1,4 +1,4 @@
-## Required Libraries:
+## Required Libraries to install:
 streamlit 
 langchain 
 langchain_huggingface 
